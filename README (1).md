@@ -37,6 +37,13 @@ The draft identifies questions about container identity, equality of values vers
 This repository records an early proposal. The rules have not yet been fully formalized, checked for mutual consistency, or proved to satisfy the listed properties. Future revisions should document changes explicitly.
 
 ## Date note
+## Licencia y Citación
+
+Este trabajo está protegido bajo la licencia **Creative Commons Atribución 4.0 Internacional (CC BY 4.0)**. 
+
+Para citar este trabajo:
+Ramos Vera, J. J. (2026). *Theory of Zero-Division Containers: Mathematical Framework and Arithmetic Implementation (v0.1)*. Zenodo. https://doi.org
+
 
 The first draft was prepared on October 24, 2026, a date the author regards as a personal Pythagorean milestone.
 
